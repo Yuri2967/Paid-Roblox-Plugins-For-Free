@@ -8,12 +8,17 @@ Keep in mind that for most of them you still have to compile them.
 ### Quenty's Class Converter (API based)
 Normal price: 100 RBX                                                                                                                                                    
 Roblox Link: [View](https://www.roblox.com/library/906681627/)                                                                               
-GitHub Link: [View](https://github.com/Quenty/ClassConverterPlugind)
+Download Link: https://github.com/Quenty/ClassConverterPlugin/releases/download/v1.0.3/version_1.0.3.rbxmx
 
 ### Codify - Convert Anything to Code
 Normal price: 350 RBX                                                                                                                                                    
 Roblox Link: [View](https://www.roblox.com/library/4749111907/)                                                                               
 GitHub Link: [View](https://github.com/csqrl/codify-plugin)
+
+### Nexus Unit Testing Plugin
+Normal price: 50000 RBX                                                                                                                                                    
+Roblox Link: [View](https://www.roblox.com/library/11039022908/)                                                                               
+Download Link: https://github.com/TheNexusAvenger/Nexus-Unit-Testing-Plugin/releases/download/V.1.4.2/NexusUnitTestingPlugin.rbxmx
 
 ***
 
