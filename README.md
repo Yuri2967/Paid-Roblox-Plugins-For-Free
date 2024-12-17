@@ -1,4 +1,3 @@
-# Paid Roblox Plugins For Free
 This is just something where you can find all the links to (most) paid plugins their GitHub pages so that you can download/compile them for free.             
 Keep in mind that for most of them you still have to compile them.
 
